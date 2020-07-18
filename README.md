@@ -1,0 +1,2 @@
+# TributePageML
+As part of my Responsive Web Design Certification, offered by FreeCodeCamp, I'm dedicating my Tribute Page project to my late grandmother, who I with love, called Mami Lanchita who passed away during the time I reviewed this course. I will comply will all the requirements set by the specified user stories, but will continue with this project on my own, to honor her memory and story.
