@@ -1,0 +1,43 @@
+body{ font-family: Helvetica; }
+  
+#img-div{ text-align: center; }
+
+#image {
+  height: auto;
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+  border: 4px solid black;
+}
+
+h1, h2 {
+  color: #FFF9FB;
+}
+
+a, figcaption {
+  color: #BB0A21;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #4B88A2;
+}
+  
+.title {
+  display: block;
+  padding: 30px 40px 30px 40px;
+  border-bottom: 4px solid black;
+  background-color: #4B88A2;
+  color: #FFF9FB;
+}
+  
+  .top {
+    border: 4px solid;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 60%;
+  }
+  
+  .info{
+    margin: 40px;
+  }
